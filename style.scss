@@ -1,0 +1,12 @@
+$navbar-height: 3.5rem;
+
+.main-page{
+    height: 100vh;
+    //padding-top: 100px;
+    //z-index: -1;
+}
+
+.main-page-row{
+    height: 100%;
+    padding-top: $navbar-height;
+}
